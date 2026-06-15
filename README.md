@@ -24,6 +24,6 @@ I am a 20-year-old Computer Science student passionate about building scalable b
 
 ## 🤝 Connect with Me
 * 💼 **GitHub:** [Vinndroid](https://github.com/Vinndroid)
-* 🚀 Always open to collaborating on open-source DevOps tools, backend automation scripts, and cloud projects!
+* 🚀 Always open to collaborating on open-source DevOps tools, cloud projects, Rag Systems and many more related to automation society!
 
 *"Automate everything, document the journey."*
